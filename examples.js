@@ -1,4 +1,4 @@
-(new App()).component('z-example', (new Component())
+new App().component('z-example', (new Component())
     .setTemplate((self) => {
         return `<div>
                 <label>Please enter a number.</label>
